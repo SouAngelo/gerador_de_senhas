@@ -1,7 +1,7 @@
 
 ## 🔗 Sobre o Projeto
 
-Deploy:  [Clique aqui](https://pizzaria-diamonds.netlify.app/)
+Deploy:  [Clique aqui](https://geradordesenhas-js.netlify.app)
 
 <p>
 Projeto de gerador de senhas, escolha as opções de números e símbolos caso queira sua senha mais completa e segura, ajuste o tamanho que sua senha vai ter e copie a sua senha logo em seguida1 
