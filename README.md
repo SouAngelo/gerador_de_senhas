@@ -11,7 +11,7 @@ Projeto de gerador de senhas, escolha as opções de números e símbolos caso q
 ## 💻 Layout Responsivo
 <br>
 <p align='center'>
-<img width='700' src='/src/assets/gif/demo-gif.gif'>
+<img width='700' src='/src/gifdemo/gif-demo.gif'>
 </p>
 
 <br>
